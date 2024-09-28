@@ -1,0 +1,69 @@
+[10:06:37][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[10:06:37][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 704 ms
+[10:06:37][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[10:06:38][INFO ][FrameworkServlet.java: 547] - Completed initialization in 708 ms
+[11:51:54][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[11:51:54][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 720 ms
+[11:51:54][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[11:51:55][INFO ][FrameworkServlet.java: 547] - Completed initialization in 751 ms
+[12:13:26][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:13:26][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 716 ms
+[12:13:26][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:13:27][INFO ][FrameworkServlet.java: 547] - Completed initialization in 777 ms
+[12:13:46][INFO ][NoticeController.java: 82] - ndetail.do : 14
+[12:14:02][INFO ][NoticeController.java: 82] - ndetail.do : 13
+[12:14:05][INFO ][NoticeController.java: 82] - ndetail.do : 15
+[12:14:14][INFO ][NoticeController.java: 82] - ndetail.do : 14
+[12:40:57][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:40:57][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 707 ms
+[12:40:58][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:40:58][INFO ][FrameworkServlet.java: 547] - Completed initialization in 758 ms
+[12:41:22][INFO ][NoticeController.java: 82] - ndetail.do : 15
+[12:55:03][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:55:03][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 735 ms
+[12:55:03][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:55:04][INFO ][FrameworkServlet.java: 547] - Completed initialization in 790 ms
+[12:55:32][INFO ][MemberController.java: 72] - login : User [userId=admin, userPwd=admin, userName=null]
+[12:55:38][INFO ][NoticeController.java: 82] - ndetail.do : 15
+[15:01:26][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[15:01:27][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 699 ms
+[15:01:27][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[15:01:27][INFO ][FrameworkServlet.java: 547] - Completed initialization in 769 ms
+[15:01:34][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[15:01:35][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 702 ms
+[15:01:35][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[15:01:36][INFO ][FrameworkServlet.java: 547] - Completed initialization in 756 ms
+[15:02:17][INFO ][NoticeController.java: 82] - ndetail.do : 1
+[15:02:33][INFO ][NoticeController.java: 82] - ndetail.do : 3
+[15:03:20][INFO ][MemberController.java: 72] - login : User [userId=admin, userPwd=admin, userName=null]
+[15:04:08][INFO ][NoticeController.java: 82] - ndetail.do : 5
+[15:30:19][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[15:30:20][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 701 ms
+[15:30:20][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[15:30:21][INFO ][FrameworkServlet.java: 547] - Completed initialization in 783 ms
+[16:09:00][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[16:09:01][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 721 ms
+[16:09:01][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[16:09:01][INFO ][FrameworkServlet.java: 547] - Completed initialization in 748 ms
+[16:10:01][INFO ][NoticeController.java: 136] - ninsert.do : Notice [noticeNo=0, noticeTitle=공지글 등록 확인, noticeDate=null, noticeWriter=admin, noticeContent=중요도 처리 새 공지글입니다., originalFilePath=null, renameFilePath=null, importance=Y, impEndDate=2024-09-30, readCount=0]
+[16:28:23][INFO ][NoticeController.java: 91] - ndetail.do : 27
+[17:00:36][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:00:37][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 712 ms
+[17:00:37][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:00:38][INFO ][FrameworkServlet.java: 547] - Completed initialization in 754 ms
+[17:00:59][INFO ][MemberController.java: 72] - login : User [userId=admin, userPwd=admin, userName=null]
+[17:02:16][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:02:16][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 724 ms
+[17:02:16][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:02:17][INFO ][FrameworkServlet.java: 547] - Completed initialization in 737 ms
+[17:02:30][INFO ][NoticeController.java: 142] - ninsert.do : Notice [noticeNo=0, noticeTitle=파일첨부 확인 공지글, noticeDate=null, noticeWriter=admin, noticeContent=파일 첨부 확인용 공지글입니다., originalFilePath=null, renameFilePath=null, importance=Y, impEndDate=2024-09-30, readCount=0]
+[17:02:30][INFO ][NoticeController.java: 159] - 첨부파일명 확인 : 20240927170230.jpg
+[17:02:43][INFO ][NoticeController.java: 95] - ndetail.do : 28
+[17:02:49][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/nfdown.do
+[17:37:15][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:37:16][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 724 ms
+[17:37:16][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:37:16][INFO ][FrameworkServlet.java: 547] - Completed initialization in 774 ms
+[17:37:36][INFO ][NoticeController.java: 95] - ndetail.do : 28
+[17:37:55][INFO ][MemberController.java: 72] - login : User [userId=admin, userPwd=admin, userName=null]
+[17:37:58][INFO ][NoticeController.java: 95] - ndetail.do : 28
